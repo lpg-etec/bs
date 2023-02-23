@@ -8,7 +8,7 @@ Var
 l1: real
 Inicio
 
-escreval("Quadrado: lado 1: ")
+escreval("Quadrado: lado ")
 leia(l1)
 
 escreval("Area: ", l1^2)

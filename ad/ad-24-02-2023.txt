@@ -1,0 +1,4 @@
+1: Linha, tamanho, forma, cor, textura e equilíbrio. 
+2: Onde uma imagem é dividia em uma grade com 9 partes (3x3), o ponto focal da imagem fica localizado perto ou encima das linhas, criando um equilíbrio visual.
+3: A forma de como colocamos os elementos de uma imagem juntos (organização, formas).
+4: Linhas, formas orgânicas, formas geométricas, múltiplas cores, simetria.

@@ -4,18 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ETEC: MCM</title>
-    <style>
-        body {
-            text-align: center;
-        }
-        h1 {
-            color: red;
-        }
-    </style>
 </head>
 <body>
     <h1>ETEC - MCM: 141</h1>
-    <br>
     <span>
         Site oficial: <a href="https://etecmcm.com.br">https://etecmcm.com.br</a>
     </span>
@@ -26,7 +17,6 @@
         <ul><u>Arte Digital</u>: Sexta-feira, Edilma Bindá</ul>
         <ul><u>Análise de Projetos Web</u>: Quartfa-feira, Bruno Zolotatareff</ul>
     </table>
-
     <!-- <h2>Horários:</h2>
     <table>
         <ul><abbr title="Interface Web">IW</abbr>: Sexta-feira</ul>

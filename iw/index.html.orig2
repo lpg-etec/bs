@@ -4,7 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ETEC: MCM</title>
-    <link rel="stylesheet" href="./css/style.css">
+    <style>
+        #main {
+            margin-left: 3%;
+        }
+        h1 {
+            color: red;
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
     <h1>ETEC - MCM: 141</h1>

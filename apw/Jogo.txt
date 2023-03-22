@@ -1,0 +1,105 @@
+Ideias:
+    Estilo de jogo
+    Escolha da estética
+    Modo de narrativa
+    Personagens
+    Plataforma (PC, console...)
+Planejamento:
+    Trabalhar sozinho ou em equipe
+    Tempo de dedicação
+    Verba
+    Público alvo*
+    Por onde começar
+Narrativa:
+    Personagens
+    Antagonista
+    Protagonista
+    História
+    Época
+    Ambientação
+Programação:
+    Objetos
+    Números
+    Arrays
+    Mapas*
+    Strings
+    Variáveis
+    Performance
+Linguagem:
+    C
+    C++
+    C#
+    JavaScript
+    Lua
+Engine:
+    Web*
+    Unity
+    Unreal Engine
+    Blender
+    Game maker
+Mecânicas:
+    Movimentação (Frente, atrás, pulos)
+    Câmera (1° pessoa, 2° pessoa...)
+    Interação com o cenário
+    NPC's
+    Estilo de jogo
+    Itens; trocas
+Visual:
+    Estética (High-Poly, Low-Poly, PixelArt, Voxel)
+    Dimensão (3D, 2D)
+    Cores (paleta; base para o jogo)
+    Estilo de iluminação (claro, escuro)
+    Interface (GUI)
+Aúdio:
+    Design de aúdio
+    Graves, agudos
+    Roteiro (script)
+    Gravação
+    Edição (Audacity)
+    Dublagem
+Level Design:
+    Organização  
+    Construção de fases
+    Obstáculos, objetos
+    Distribuição de itens; 
+    Distibuição de inimigos
+    Equilíbrio de elementos
+Protótipo:
+    Testes;
+    Verificação de equilíbrio;
+    Correção de problemas;
+    Debugging;
+    Coleta de dados.        
+Multiplayer:
+    Servidor
+    Replicação
+    Hospedagem
+    Database*
+    Localidade
+Arrecadação de dinheiro*:
+    Transparência
+    Plataforma usada (Patreon, Catarse, Kickstarter)
+    Benefícios (prêmios para níveis de doação)
+    Meta (o quanto será necessário)
+    Metas adicionais (ultrapassagem de metas, novos benefícios)
+Publicidade:
+    Organização
+    Website do jogo
+    Plataforma (meios)
+    Redes sociais (Twitter, Discord...)
+    Arrecadação* (Se necessário)
+    Playtest (Beta, disponível para o público)
+Distribuição:
+    Definição do preço
+    Prazo de lançamento
+    Público alvo (faixa etária)
+    Feedback (críticas, problemas, sugestões)
+    Plataforma de lançamento (Standalone, Steam, Epic Games)
+Documentação:
+    Edição compartilhada (ou não)
+    Especificações técnicas
+    Personagens
+    Levels
+    Itens
+    Inimigos
+    Aliados*

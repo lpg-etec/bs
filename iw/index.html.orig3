@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ETEC: MCM</title>
+    <link rel="shortcut icon" href="./img/etec-141-logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <header id="name">
+        <!-- <img width="50" src="./img/etec-141-logo.png"> -->
+        <b><span>ETEC - MCM: 141</span></b>
+        <!-- <h1>ETEC - MCM: 141</h1> -->
+        <hr>
+    </header>
+    <figure>
+        <img width="50%" src="./img/etec-141-p1.png">
+    </figure>
+    <div id="main">
+        <span>
+            Site oficial: <a href="https://etecmcm.com.br">https://etecmcm.com.br</a>
+        </span>
+        <h2>Aulas (Dia, Professor):</h2>
+        <table>
+            <ul><u>Interface Web</u>: Sexta-feira, Cíntia Pinho</ul>
+            <ul><u>Programação e Algoritimos</u>: Quinta-feira, Cíntia Pinho</ul>
+            <ul><u>Arte Digital</u>: Sexta-feira, Edilma Bindá</ul>
+            <ul><u>Análise de Projetos Web</u>: Quartfa-feira, Bruno Zolotatareff</ul>
+        </table>
+        <h2>Logo:</h2>
+        <img width="100" src="./img/etec-141-logo.png">
+    </div>
+    <br>
+    <footer>
+        <span></span>
+    </footer>
+    <!-- <h2>Horários:</h2>
+    <table>
+        <ul><abbr title="Interface Web">IW</abbr>: Sexta-feira</ul>
+        <ul><abbr title="Programação e Algoritimos">PA</abbr>: Quinta-feira</ul>
+        <ul><abbr title="Arte Digital">AD</abbr>: Sexta-feira</ul>
+        <ul><abbr title="Análise de Projetos Web">APW</abbr>: Quarta-feira</ul>
+    </table> -->
+</body>
+</html>

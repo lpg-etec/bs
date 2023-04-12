@@ -1,0 +1,26 @@
+body {
+    color: white;
+    background-color: black;
+}
+header {
+    text-align: center;
+    background-color: rgb(44, 44, 44);
+}
+.container {
+    background-color: rgb(30, 30, 30);
+    width: 80%;
+    margin: auto;
+}
+h2 {
+    background-color: red;
+}
+.banner {
+    width: 100%;
+}
+img {
+    width: 30%;
+}
+footer {
+    background-color: rgb(44, 44, 44);
+    color: white;
+}

@@ -7,3 +7,4 @@
 - mat: Material
 - pa: Programação e Algoritimos
 - plan: Plano de Curso
+- exam: Exame

@@ -1,0 +1,15 @@
+a = 8; b = 5; c = -4; d = 2
+a) Delta = b^2 - 4*a*c
+= 153
+b) J = "Hoje" <> "HOJE"
+= V
+c) Media = (a+b+c+d) / 4
+= 2,75
+d) Media = a+b+c+d / 4
+= 9,5
+e) Resultado = a+b-10*c
+= 53
+f) Y = a > 8 E b+c > d
+= F
+g) Y = a > 3*2 OU b+c <> d
+= V

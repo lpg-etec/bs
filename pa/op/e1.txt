@@ -1,0 +1,10 @@
+Considerando prioridade entre operadores: 
+w = F; x = V; z = V
+a) x OU z E w
+= V
+b) z XOU x E x
+= F
+c) z OU z OU w E x
+= V
+d) x E z E w OU NAO w
+= V

@@ -1,8 +1,8 @@
 # pa
-Programação e Algoritmos
-## Abreviações:
+ProgramaÃ§Ã£o e Algoritmos
+## AbreviaÃ§Ãµes:
 Ordenado por aula (classroom).
-- arith: Operações Básicas
+- arith: OperaÃ§Ãµes BÃ¡sicas
 - mesa: Fluxograma e Teste de Mesa
 - op: Operadores
 - cond: Condicionais

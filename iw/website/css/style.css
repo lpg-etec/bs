@@ -1,8 +1,18 @@
+@keyframes nav {
+    from {
+        color: red;
+    }
+    to {
+        color: white;
+    }
+}
 body {
     color: white;
     background-color: black;
 }
-
+section p {
+    margin-left: 1em;
+}
 .banner {
     width: 100%;
 }
@@ -11,6 +21,11 @@ body {
 }
 #links li a {
     color: inherit;
+}
+#links li a:hover {
+    animation: nav 250ms;
+    animation-fill-mode: both;
+    animation-direction: alternate;
 }
 .container {
     color: white;

@@ -10,6 +10,34 @@ body {
     color: white;
     background-color: black;
 }
+#nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#nav h1 {
+    margin-left: .25em;
+    margin-right: .25em;
+}
+#nav nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#nav nav ul li {
+    margin-left: .25em;
+    margin-right: .25em;
+}
+@media (max-width: 1040px) {
+    #nav {
+        display: block;
+    }
+}
+@media (max-width: 650px) {
+    #nav nav ul {
+        display: block;
+    }
+}
 section p {
     margin-left: 1em;
 }
@@ -77,11 +105,14 @@ h3 {
 #musics {
     text-align: center;
     display: flex;
-    flex-flow: wrap;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 #musics div {
     border: 1px solid white;
+    box-shadow: 5px 5px black;
     margin-left: 1em;
+    margin-right: 1em;
 }
 #musics div h4 {
     font-size: 125%;
@@ -99,4 +130,21 @@ footer ul {
 }
 .name h1 {
     text-decoration: underline;
+}
+#contato form {
+    text-align: center;
+}
+#contato form div {
+}
+#contato form input, #contato form textarea {
+    padding: .5em;
+    border-radius: 1em;
+    outline: none;
+    border: none;
+}
+#contato form div p {
+    margin-top: 0em;
+    margin-bottom: .25em;
+    margin-left: 0em;
+    margin-right: 0em;
 }

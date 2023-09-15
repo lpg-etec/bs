@@ -3,35 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../img/etec-141-logo.png" type="image/x-icon">
     <link rel="stylesheet" href="../css/reset.css">
     <link rel="stylesheet" href="../css/style.css">
     <title>ETEC: MCM - Contato</title>
 </head>
 <body>
     <header class="name">
-        <h1>ETEC: MCM</h1>
-        <nav>
-            <ul id="links">
-                <li><a href="../index.html">Início</a></li>
-                <li><a href="./pages/horario.html">Horários</a></li>
-                <li><a href="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2022/12/deliberao_ceeteps_87_2022_12_28.pdf">Regimento Interno</a></li>
-                <li><a href="./pages/contato.html">Contato</a></li>
-            </ul>
-        </nav>
+        <div id="nav">
+            <h1>ETEC: MCM</h1>
+            <nav>
+                <ul id="links">
+                    <li><a href="../index.html">Início</a></li>
+                    <li><a href="./pages/horario.html">Horários</a></li>
+                    <li><a href="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2022/12/deliberao_ceeteps_87_2022_12_28.pdf">Regimento Interno</a></li>
+                    <li><a href="./pages/contato.html">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
     <div class="container">
         <section id="contato">
             <h2>Contato:</h2>
-            <p>
-                Formulário para contato.
-                <form>
+            <p>Formulário para contato.</p>
+            <form>
+                <div>
+                    <p>Nome:</p>
                     <input type="text" name="nome" placeholder="Nome">
-                    <br>
-                    <textarea name="assunto" id="" cols="30" rows="10" placeholder="Assunto..."></textarea>
-                    <br>
-                    <input type="submit">
-                </form>
-            </p>
+                </div>
+                <div>
+                    <p>Email:</p>
+                    <input type="email" name="email" placeholder="Email">
+                </div>
+                <div>
+                    <p>Assunto:</p>
+                    <textarea name="assunto" id="" cols="40" rows="10" placeholder="Assunto..."></textarea>
+                </div>
+                <input type="submit">
+            </form>
         </section>
     </div>
     <footer>
